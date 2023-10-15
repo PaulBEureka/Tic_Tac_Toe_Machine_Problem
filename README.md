@@ -4,7 +4,11 @@
 The program demonstrates a game of Tic Tac Toe in a console application setting, demonstrating a turn-based game.
 It has two game modes: Casual and Rush Mode, both having two suboptions: vsBot and Two Player modes.
 Player could choose between 3 game layouts: 3x3 (Easy) , 6x6 (Normal) , and 10x10 (Hard).
+
 First game project done by PaulBEureka
+
+## Note
+This project is open for improvements, just submit a pull request
 
 ### Game Modes
 Casual Mode -> No time limit per turn and overall game time limit
